@@ -1,3 +1,4 @@
+//5MA GRUPO 2 RIVAS FRACCARO GUZMAN
 #include <U8g2lib.h>
 #include "DHT.h"
 #include <Preferences.h>
